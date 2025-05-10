@@ -1,0 +1,1 @@
+# Predicting_Soil_Properties_Using_Hyperspectral_Images
