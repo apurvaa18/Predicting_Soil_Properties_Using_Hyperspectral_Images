@@ -11,3 +11,5 @@ Features:-
 2. Hyperspectral Cube Construction: Combines multi-band TIFF images into a 3D data cube for advanced spectral analysis.
 
 3. Visual Interpretation Tools: Applies RGB composites, false-color maps, and spectral profiling for intuitive visualization of soil variability.
+
+4. upports Precision Agriculture: Enables faster, scalable, and cost-effective monitoring to enhance crop planning and sustainable land use.
