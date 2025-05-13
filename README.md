@@ -6,4 +6,6 @@ minimizing overuse of fertilizers, improving resource allocation, and enhancing 
 
 Features:-
 
-Non-Invasive Soil Analysis: Uses Hyperspectral Imaging to assess soil properties like moisture, phosphorus, and organic matter without physical sampling.
+1. Non-Invasive Soil Analysis: Uses Hyperspectral Imaging to assess soil properties like moisture, phosphorus, and organic matter without physical sampling.
+
+2. Hyperspectral Cube Construction: Combines multi-band TIFF images into a 3D data cube for advanced spectral analysis.
