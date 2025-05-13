@@ -9,3 +9,5 @@ Features:-
 1. Non-Invasive Soil Analysis: Uses Hyperspectral Imaging to assess soil properties like moisture, phosphorus, and organic matter without physical sampling.
 
 2. Hyperspectral Cube Construction: Combines multi-band TIFF images into a 3D data cube for advanced spectral analysis.
+
+3. Visual Interpretation Tools: Applies RGB composites, false-color maps, and spectral profiling for intuitive visualization of soil variability.
